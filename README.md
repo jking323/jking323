@@ -6,7 +6,7 @@
 
 My name is Jeremy and I currently work in engineering for a medical devices company, we are currently working on testing machines for Sars-CoV-2 and other infectious desieases.
 
-[Picture of my dog Goose!](https://github.com/jking323/jking323/blob/main/goose.jpg?raw=true)
+![Picture of my dog Goose!](https://i.imgur.com/eSvv0cC.jpg)
 
 📫 How to reach me: ...
 
